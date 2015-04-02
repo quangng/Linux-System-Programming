@@ -1,0 +1,4 @@
+Limitations of named pipes:
+- Named pipes FIFO can only be used for communication among processes on the same host machine.
+- Named pipes can be created only in the local file system of the host, (i.e. cannot create a named pipe on teh NFS file system)
+

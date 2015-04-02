@@ -1,0 +1,2 @@
+http://www.cse.nd.edu/~cpoellab/teaching/cse30264/lecture9.pdf
+http://www.yolinux.com/TUTORIALS/LinuxTutorialPosixThreads.html
